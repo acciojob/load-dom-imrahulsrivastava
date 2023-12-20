@@ -1,5 +1,5 @@
 // Write your script here
 
 document.addEventListener("DOMContentLoaded", function () {
-  document.body.innerHTML = "<p>DOM load success</p>";
+  document.body.textContent = "DOM load success";
 });
